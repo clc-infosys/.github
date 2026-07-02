@@ -2,7 +2,8 @@
 name: バグ報告
 about: 動作の不具合やエラーの報告
 title: ''
-labels: 'bug'
+labels: ''
+type: 'bug'
 ---
 
 ## 期待する動作
