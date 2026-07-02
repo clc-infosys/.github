@@ -2,8 +2,9 @@
 name: タスク・機能追加
 about: 新しい機能の開発やドキュメント追加のタスク
 title: ''
-labels: 'task'
+labels: ''
 assignees: ''
+type: 'task'
 ---
 
 ## 概要
