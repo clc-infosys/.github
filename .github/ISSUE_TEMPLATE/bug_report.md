@@ -1,7 +1,7 @@
 ---
 name: バグ報告
 about: 動作の不具合やエラーの報告
-title: '[Bug]: '
+title: ''
 labels: 'bug'
 ---
 
